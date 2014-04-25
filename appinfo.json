@@ -1,0 +1,44 @@
+{
+    "uuid": "6c85a050-3431-46c8-ba73-4d69bd94310b",
+    "resources": {
+        "media": [
+            {
+                "name": "FONT_SAO_14",
+                "type": "font",
+                "file": "fonts/SAOUI-Regular.ttf"
+            },
+            {
+                "name": "FONT_SAO_32",
+                "type": "font",
+                "file": "fonts/SAOUI-Regular.ttf"
+            },
+            {
+                "name": "FONT_SAO_36",
+                "type": "font",
+                "file": "fonts/SAOUI-Regular.ttf"
+            },
+            {
+                "name": "FONT_SAO_20",
+                "type": "font",
+                "file": "fonts/SAOUI-Regular.ttf"
+            },
+            {
+                "name": "IMAGE_ELU",
+                "type": "png",
+                "file": "images/Elu.png"
+            }
+        ]
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Ted Presley",
+    "shortName": "SAO2",
+    "longName": "SAO2",
+    "watchapp": {
+        "watchface": true
+    },
+    "versionCode": 3,
+    "appKeys": {},
+    "versionLabel": "1.2"
+}
